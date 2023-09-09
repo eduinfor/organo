@@ -1,4 +1,4 @@
-import './banner.css'
+import './banners.css'
 
 const Banner = () => {
     return (<header className="cabecalho">
